@@ -1,0 +1,6 @@
+{
+  "name": "ArchForge Studio",
+  "description": "AI-powered system architecture diagram generator with interactive canvas, live Mermaid.js sync, and vector export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
